@@ -1,0 +1,158 @@
+id,idcentregabontelecom,idprofil,nomutilisateur,prenomutilisateur,telephoneutilisateur,emailutilisateur,civilite,id_util_suppr,id_util_maj,id_util_creat,hor_mise_a_jour,hor_suppr,hor_creat,boo_suppr,boo_desac,motdepasse,login,ldap,portee_centre,idcentre,actif
+42,,1,KOMBILA KOUMAVOR Mireille,,065.300.120,M.KOMBILA@moov-africa.ga, ,,,2,,,2021-09-08 16:36:38+01,f,f,"",mkombila,1,f,,t
+45,20,3,Evan Freddy MBENG-ext,,066556371,E.MBENG-ext@moov-africa.ga,"",,1,1,2021-11-15 08:41:54+00,,2021-11-11 13:33:50+00,f,f,"",e.mbeng-ext,1,,20,t
+44,20,3,Jean Durand  MBA N’NANG,,066370300,J.MBA-ext@moov-africa.ga,"",,1,1,2021-11-15 14:02:28+00,,2021-11-09 09:22:32+00,f,f,"",j.mba-ext,1,,20,t
+46,20,3,Loli Audia BANGA-ext,,"",L.BANGA-ext@moov-africa.ga, ,,,1,,,2021-11-16 08:13:24+00,f,f,"",l.banga-ext,1,t,20,t
+48,,1,Multigest multigest,,"",M.multigest@moov-africa.ga, ,,,2,,,2021-12-03 06:49:13+00,f,f,"",multigest,1,f,,t
+49,,2,IWANGOU Jean-Blaise,,065.300.151,J.IWANGOU@moov-africa.ga, ,,,1,,,2022-01-20 11:58:51+00,f,f,"",jbiwangou,1,f,,t
+50,,6,Rebecca ODOUNGA TSONO,,066042025,R.ODOUNGATSONO@moov-africa.ga, ,,,1,,,2022-01-20 12:06:33+00,f,f,"",r.odounga,1,f,,t
+51,,3,Dieudonné ODOUNGA-ext,,"",D.ODOUNGA-ext@moov-africa.ga, ,,,1,,,2022-02-01 09:32:16+00,f,f,"",d.odounga-ext,1,f,,t
+12,20,3,Roland ASSOUMOU,,066 07 08 40,R.ASSOUMOU@moov-africa.ga,"",,1,2,2022-10-03 15:59:07+01,,2021-04-01 11:14:35+01,f,f,"",r.assoumou,1,f,20,t
+10,,3,Ferry TAIKA OMPOUNGA,,066 55 63 71,F.TAIKAOMPOUNGA@gabontelecom.ga, ,,1,2,2022-10-25 08:46:50+01,,2020-12-18 14:59:57+00,f,f,"",f.taika,1,f,,f
+54,,6,Amélie Natacha GUIGAMBOU,,066 41 75 12,A.GUIGAMBOU@moov-africa.ga, ,,,52,,,2022-03-02 07:29:12+00,f,f,"",an.guigambou,1,f,,t
+33,8,5,HOUNDETON Enagnon Didier,,065300175,D.HOUNDETON@moov-africa.ga,"",,1,1,2023-08-04 08:37:38+01,,2021-06-01 09:57:23+01,f,f,"",dhoundeton,1,t,8,t
+37,16,5,Donatien MAHOUNDOU,,066603664,D.MAHOUNDOU@moov-africa.ga,"",,1,1,2023-08-04 08:40:29+01,,2021-06-01 10:11:13+01,f,f,"",d.mahoundou,1,t,16,t
+32,77,5,Ibrahim KOMBILA,,066782658,I.KOMBILA@moov-africa.ga,"",,1,1,2023-08-04 08:44:54+01,,2021-06-01 09:48:56+01,f,f,"",i.kombila,1,t,77,t
+35,79,5,MOUKAGNI KOUMBA Dieudonné,,065300154,D.MOUKAGNI@moov-africa.ga,"",,1,1,2023-09-12 12:47:29+01,,2021-06-01 10:07:54+01,f,f,"",dmoukagni,1,t,79,t
+38,18,3,Jean Claude BONGO,,066834510,J.BONGO@moov-africa.ga,"",,1,1,2023-10-09 15:19:21+01,,2021-06-01 10:12:27+01,f,f,"",jc.bongo,1,f,18,t
+20,,1,Abderrahim KOUMAA,,"",A.KOUMAA@moov-africa.ga, ,,1,1,2023-10-16 10:07:33+01,,2021-04-22 14:25:31+01,f,f,"",a.koumaa,1,f,,f
+18,,1,Mustapha BOUNAJI,,066 70 06 42,M.BOUNAJI@moov-africa.ga, ,,1,1,2023-10-16 10:07:53+01,,2021-04-15 07:58:59+01,f,f,"",m.bounaji,1,f,,f
+11,20,3,Jean Aime MENIE,,066033592,J.MENIE@moov-africa.ga,"",,1,1,2023-10-16 10:10:45+01,,2021-03-19 08:22:17+00,f,f,"","",1,f,20,t
+47,20,1,Serge Ella-ext,,"",S.Ella-ext@moov-africa.ga, ,,1,1,2023-10-17 09:46:29+01,,2021-11-19 13:33:55+00,f,f,"",s.ella-ext,1,t,20,f
+13,,1,OBAME MEZUI Tanguy,,"",T.Obame-ext@moov-africa.ga, ,,1,2,2023-10-17 09:46:40+01,,2021-04-01 11:17:47+01,f,f,"",t.obame-ext,1,f,,f
+6,22,3,Cyr-Fulgence OSSOUGOU,,066 23 32 03,CF.OSSOUGOU@gabontelecom.ga,"",,1,1,2023-12-06 13:12:08+00,,2020-12-17 12:32:48+00,f,f,"",cf.ossougou,1,t,22,t
+55,24,3,Brunet MANDZELA,,066071609,B.MANDZELA@moov-africa.ga,"",,1,1,2023-12-06 13:12:22+00,,2022-03-08 09:44:28+00,f,f,"",b.mandzela,1,t,24,t
+19,95,1,Hamid BENSAID,,66 70 06 43,H.BENSAID@moov-africa.ga,"",,52,1,2024-04-04 15:56:51+01,,2021-04-22 14:03:09+01,f,f,"",h.bensaid,1,f,95,t
+52,16,1,Fabrice MIKOMBA OUTOU,,066230072,F.MIKOMBAOUTOU@moov-africa.ga,"",,52,1,2024-04-04 16:09:09+01,,2022-03-02 07:22:55+00,f,f,"",f.mikomba,1,f,16,t
+43,20,3,Jean-Aimé DJEMBI,,065300195,J.DJEMBI@moov-africa.ga,"",,1,1,2024-05-22 15:03:41+01,,2021-11-09 09:08:07+00,f,f,"",jadjembi,1,f,20,t
+7,22,5,Wilfried TOUNDJOKA LETAMBA,,066 19 06 75,W.TOUNDJOKALETAMBA@gabontelecom.ga,"",,1,1,2022-04-19 09:04:08+01,,2020-12-18 06:54:59+00,f,f,"",w.toundjoka,1,,22,t
+60,14,3,ABESSOLO Yvan Nick,,065.300.162,Y.ABESSOLO@moov-africa.ga, ,,,1,,,2022-05-06 08:04:23+01,f,f,"",yabessolo,1,t,14,t
+53,14,3,Etienne MBAMA,,066.06.25.50,E.MBAMA@moov-africa.ga,"",,1,52,2022-05-07 10:44:49+01,,2022-03-02 07:28:04+00,f,f,"",e.mbama,1,t,14,t
+61,,6,Corynne WOUNDO ép NOUHANDO,,011 72 64 35,C.WOUNDO@moov-africa.ga, ,,,1,,,2022-06-08 13:54:04+01,f,f,"",c.woundo,1,f,,t
+62,10,4,Max Freddy HOUEZO-ext,,"",M.HOUEZO-ext@moov-africa.ga, ,,,1,,,2022-06-13 16:30:42+01,f,f,"",m.houezo-ext,1,t,10,t
+63,10,4,Paola MAGHAMBA-ext,,"",P.MAGHAMBA-ext@moov-africa.ga, ,,,1,,,2022-06-13 16:31:13+01,f,f,"",p.maghamba-ext,1,t,10,t
+65,,6,NKENE NGWA Florence Marlyse Kelly,,065.300.109,F.NKENE@moov-africa.ga, ,,,1,,,2022-06-14 13:41:11+01,f,f,"",fnkene,1,f,,t
+66,,6,Yvette Pétronille OBONO,,011792505/011792506,Y.OBONO@moov-africa.ga, ,,,1,,,2022-06-14 13:41:33+01,f,f,"",y.obono,1,f,,t
+67,,6,NTOLE Michella,,065.300.027,M.NTOLE@moov-africa.ga, ,,,1,,,2022-06-14 13:41:59+01,f,f,"",mntole,1,f,,t
+68,,6,Isabelle BULABULA ép. NDAYWEL,,066 22 18 00,I.BULABULAep.NDAYWEL@moov-africa.ga, ,,,1,,,2022-06-15 09:12:14+01,f,f,"",i.bulabula,1,f,,t
+69,,6,Christelle ANTCHOUE,,(241) 066 21 66 80 / 065 31 31 49,C.ANTCHOUE@moov-africa.ga, ,,,1,,,2022-06-15 09:12:34+01,f,f,"",c.antchoue,1,f,,t
+70,,6,Sandrine MBILA  Née OTHA  ESSAPI,,(+241) 011 56 80 80,S.MBILANeeOTHAESSAPI@moov-africa.ga, ,,,1,,,2022-06-15 09:12:52+01,f,f,"",s.othaessapi,1,f,,t
+71,,6,Ariane NTINOU,,066081616,A.NTINOU@moov-africa.ga, ,,,1,,,2022-06-15 09:13:09+01,f,f,"",a.ntinou,1,f,,t
+72,,6,Sylvie NKOUNDJI,,011792558,S.NKOUNDJI@moov-africa.ga, ,,,1,,,2022-06-15 09:13:27+01,f,f,"",s.nkoundji,1,f,,t
+73,,6,Willy MOUELA BONGO,,"",W.MOUELABONGO@moov-africa.ga, ,,,1,,,2022-06-15 13:10:14+01,f,f,"",w.mouela,1,f,,t
+74,,6,Josiane DEMEDEIROS EP ABESSOLO,,"",J.DEMEDEIROS@moov-africa.ga, ,,,1,,,2022-06-15 13:10:45+01,f,f,"",j.demedeiros,1,f,,t
+75,,6,Titiana NDZENGONE NZOLA ep EDOU NGUEMA.,,011792508,T.NDZENGONENZOLAepEDOUNGUEMA@moov-africa.ga, ,,,1,,,2022-06-15 13:11:03+01,f,f,"",t.ndzengone,1,f,,t
+76,,6,Flora Pélagie MENGUE,,066 24 73 31,F.MENGUE@moov-africa.ga, ,,,1,,,2022-06-16 08:48:56+01,f,f,"",f.mengue,1,f,,t
+64,,6,Emeline GNANGA,,"",E.GNANGA@moov-africa.ga, ,,,1,,,2022-06-14 08:47:35+01,f,f,"",e.gnanga,1,f,,t
+77,,6,Euphémie OKOUMA,,066230022,E.OKOUMA@moov-africa.ga, ,,,1,,,2022-06-16 08:49:20+01,f,f,"",e.okouma,1,f,,t
+78,,6,Koumba Lydie,,065.300.134,L.Koumba@moov-africa.ga, ,,,1,,,2022-06-16 08:49:42+01,f,f,"",lkoumba,1,f,,t
+79,,6,Loïc LIKASSA,,(+241) 11553585,L.LIKASSA@moov-africa.ga, ,,,1,,,2022-06-16 08:50:03+01,f,f,"",l.likassa,1,f,,t
+80,,6,Bertille Rachel MAMBERIépse INDASSY GNAMBAULT,,(+241) 066617707,B.MAMBERIepseINDASSYGNAMBAULT@moov-africa.ga, ,,,1,,,2022-06-16 13:27:54+01,f,f,"",br.mamberi,1,f,,t
+81,,6,Perrine SECKA NDOGO,,066 23 09 99,P.SECKANDOGO@moov-africa.ga, ,,,1,,,2022-06-16 13:28:32+01,f,f,"",p.ndogo,1,f,,t
+82,,6,Pulcherie ESSOH MBA,,066 23 00 97,P.ESSOHMBA@moov-africa.ga, ,,,1,,,2022-06-16 13:29:05+01,f,f,"",p.essohmba,1,f,,t
+83,,6,Rolph OYINI,,06623 00 82,R.OYINI@moov-africa.ga, ,,,1,,,2022-06-16 13:29:21+01,f,f,"",r.oyini,1,f,,t
+84,,6,Pulfiana Michelle ANGUE NDONG,,065.300.379,P.ANGUENDONG@moov-africa.ga, ,,,1,,,2022-06-16 13:29:37+01,f,f,"",pangue,1,f,,t
+85,,6,MINKO NSURE Vanessa Darielle,,065 300 380,V.MINKO@moov-africa.ga, ,,,1,,,2022-06-16 13:29:53+01,f,f,"",vminko,1,f,,t
+86,,6,Regis EFFAH,,011 77 58 14,R.EFFAH@moov-africa.ga, ,,,1,,,2022-06-16 13:30:08+01,f,f,"",r.effah,1,f,,t
+87,,6,Marie Carole BOUEDJILA Ep. KEMBOU,,011 79 21 00,M.BOUEDJIEpKEMBOU@moov-africa.ga, ,,,1,,,2022-06-17 08:49:11+01,f,f,"",mc.kembou,1,f,,t
+88,,6,Afrikita Véronique GBOKOU,,(+241) 011787049,A.GBOKOU@moov-africa.ga, ,,,1,,,2022-06-17 08:49:37+01,f,f,"",a.gbokou,1,f,,t
+89,,6,Marie Léonie Paula OGOMBE IGOUWOU,,066200261,M.OGOMBEIGOUWOU@moov-africa.ga, ,,,1,,,2022-06-17 08:49:58+01,f,f,"",ml.ogombe,1,f,,t
+90,,6,Rostand TSOGHO,,066 04 06 46,R.TSOGHO@moov-africa.ga, ,,,1,,,2022-06-17 09:09:38+01,f,f,"",R.TSOGHO,1,f,,t
+91,,6,Tania SICKOUT Ep. MOULEKA,,066 61 13 43,T.SICKOUTEp.MOULEKA@moov-africa.ga, ,,,1,,,2022-06-17 09:10:02+01,f,f,"",t.sickout,1,f,,t
+92,,6,Emerancienne NGOUNOU,,066230547,E.NGOUNOU@moov-africa.ga, ,,,1,,,2022-06-17 09:10:33+01,f,f,"",e.ngounou,1,f,,t
+93,20,4,Herdane Pedro MAYAGHAN,,066642899,H.MAYAGHAN@moov-africa.ga,"",,1,1,2022-07-15 15:16:09+01,,2022-07-15 15:15:11+01,f,f,"",p.mayaghan-ext,1,f,20,t
+94,,6,Nicole MBA NYNDONG,,(+241)011 552435,N.MBANYNDONG@moov-africa.ga, ,,,1,,,2022-07-25 11:46:58+01,f,f,"",n.mba,1,f,,t
+95,,6,Judith TOUNGUI,,011 77 03 73,J.TOUNGUI@moov-africa.ga, ,,,1,,,2022-07-25 11:47:19+01,f,f,"",j.toungui,1,f,,t
+96,,6,BADJINA BRUNEAU Thyna Flore,,05.300.057,T.BADJINA@moov-africa.ga, ,,,1,,,2022-07-25 11:47:42+01,f,f,"",tbadjina,1,f,,t
+97,,6,Valerie AYINGONE ONA,,066 24 51 76,V.AYINGONEONA@moov-africa.ga, ,,,1,,,2022-07-25 13:22:45+01,f,f,"",v.ayingone,1,f,,t
+98,,6,Mariam DILEBOU ELZEIN,,066 49 85 65,M.DILEBOUELZEIN@moov-africa.ga, ,,,1,,,2022-07-27 15:03:50+01,f,f,"",m.dilebou,1,f,,t
+99,,6,Marion ATOME NZE,,066 23 00 26,M.ATOMENZE@moov-africa.ga, ,,,1,,,2022-07-27 15:04:07+01,f,f,"",m.atome,1,f,,t
+100,,6,OBONO NDONG Régina,,066230588,R.OBONO@moov-africa.ga, ,,,1,,,2022-07-27 15:04:30+01,f,f,"",r.obono,1,f,,t
+58,62,5,Cyr Judicael MALIBALA,,066075492,C.MALIBALA@moov-africa.ga,"",,1,1,2023-08-04 08:42:29+01,,2022-04-21 09:10:25+01,f,f,"",c.malibala,1,t,62,t
+57,69,5,Serge NGUEMA MBA,,066272829,S.NGUEMAMBA@moov-africa.ga,"",,1,1,2023-08-09 12:55:31+01,,2022-04-20 08:58:43+01,f,f,"",s.nguemamba,1,t,69,t
+39,69,3,Barnabé DIOBA,,066952500,B.DIOBA@moov-africa.ga,"",,1,1,2023-09-01 11:17:34+01,,2021-06-01 10:13:24+01,f,f,"",b.dioba,1,t,69,t
+56,16,7,MISSAMOU,Acké,066642899,missamouacke@gmail.com,"",,52,,2024-04-04 16:09:22+01,,,f,f,$2y$10$NQ2SonoiwElMXvlfgU/zvu8mmIwUlH/XrAs5Aj1y1fN1vuaaJz7B6,MAJ,,f,16,t
+101,,6,Stephanie NEMBE Ep.NDOUTOUME,,066230535,S.NEMBE@moov-africa.ga, ,,,1,,,2022-07-27 15:04:45+01,f,f,"",s.nembe,1,f,,t
+102,16,4,Neil BOUDEMBA-EXT,,"",N.BOUDEMBA-EXT@moov-africa.ga, ,,,1,,,2022-08-04 10:19:01+01,f,f,"",n.boudemba-ext,1,t,16,t
+103,16,5,Steeve ESSAME NDONG,,066 23 03 27,S.ESSAMENDONG@moov-africa.ga, ,,,1,,,2022-08-04 10:19:24+01,f,f,"",s.essame,1,t,16,t
+104,,3,Cyrille NGUEVOUSSAGA,,066230011,C.NGUEVOUSSAGA@moov-africa.ga, ,,,1,,,2022-10-03 15:59:51+01,f,f,"",c.nguevoussaga,1,f,,t
+105,,3,Linda Christelle NJANJI YOUMBI-ext,,"",L.NJANJIYOUMBI@moov-africa.ga, ,,,1,,,2022-10-03 16:01:00+01,f,f,"",l.njanji-ext,1,f,,t
+106,,3,Jean Paul LEKOU,,011 72 92 81,J.LEKOU@moov-africa.ga, ,,,1,,,2022-10-03 16:01:37+01,f,f,"",j.lekou,1,f,,t
+107,,3,DOUKAGA NZAOU Rodrigue,,065.300.235,R.DOUKAGA@moov-africa.ga, ,,,1,,,2022-10-03 16:02:01+01,f,f,"",rdoukaga,1,f,,t
+108,,3,Luc Ulrich OKWA-ext,,"",L.OKWA-ext@moov-africa.ga, ,,,1,,,2022-10-03 16:02:24+01,f,f,"",l.okwa-ext,1,f,,t
+109,12,5,MARJOLAINE ATHOME-EXTERNE,,02486564,M.ATHOMEMEZUI@moov-africa.ga, ,,,1,,,2022-10-13 16:09:57+01,f,f,"",m.athome-ext,1,t,12,t
+110,71,5,TSANGA MEGHA Alexis,,065.300.123,A.TSANGA@moov-africa.ga, ,,,1,,,2022-10-13 16:22:00+01,f,f,"",atsanga,1,t,71,t
+111,71,4,BEKAMBA Jules Boris Vianney,,065.300.198,J.BEKAMBA@moov-africa.ga, ,,,1,,,2022-10-13 16:22:52+01,f,f,"",jbekamba,1,t,71,t
+112,71,4,Romain MADATA,,011 72 91 81,R.MADATA@moov-africa.ga, ,,,1,,,2022-10-13 16:23:21+01,f,f,"",r.madata,1,t,71,t
+113,16,4,Ida NSSOUROU-ext,,"",I.NSSOUROU-ext@moov-africa.ga, ,,,1,,,2022-11-09 07:58:43+00,f,f,"",i.nssourou-ext,1,t,16,t
+114,24,4,GNINGONE EDOUMBA Jacquie Vivi,,065300256,J.GNINGONE@moov-africa.ga, ,,,1,,,2022-11-09 14:20:38+00,f,f,"",jgningone,1,t,24,t
+115,24,4,Théophile ROGOMBE,,(+241) 011 55 29 19,T.ROGOMBE@moov-africa.ga, ,,,1,,,2022-11-09 14:21:19+00,f,f,"",t.rogombe,1,t,24,t
+117,,3,Anaelle Obone-ext,,"",A.Obone-ext@moov-africa.ga, ,,,1,,,2022-11-21 14:51:38+00,f,f,"",a.obone-ext,1,f,,t
+24,10,8,FLORE DIAVOU EPSE OWONDAULT –BERRE,,011741165,F.DIAVOU@moov-africa.ga,"",,1,2,2022-11-29 14:53:46+00,,2021-05-25 11:29:53+01,f,f,"",f.diavou,1,t,10,t
+118,,6,Damienne Tatiana MISSEME,,(+241) 011787209,D.MISSEME@moov-africa.ga, ,,,1,,,2022-12-13 13:23:57+00,f,f,"",d.misseme,1,f,,t
+119,,6,Olivier RANOZINAULT,,066 20 40 25,O.RANOZINAULT@moov-africa.ga, ,,,1,,,2022-12-20 09:06:10+00,f,f,"",o.ranozinault,1,f,,t
+120,,6,KOUMBA Olivier,,065.300.048,O.KOUMBA@moov-africa.ga, ,,,1,,,2022-12-20 09:06:10+00,f,f,"",okoumba,1,f,,t
+121,,6,BANG Marylès Ursula,,065.300.294,M.BANG@moov-africa.ga, ,,,1,,,2022-12-20 09:06:38+00,f,f,"",mbang,1,f,,t
+122,,6,NZAMBI Eddie,,065.300.066,E.NZAMBI@moov-africa.ga, ,,,1,,,2022-12-20 09:07:00+00,f,f,"",enzambi,1,f,,t
+123,,6,Marina ELLA Née NDZENGUE KONZA,,(+241) 011565600/011560840,M.ELLANeeNDZENGUEKONZA@moov-africa.ga, ,,,1,,,2022-12-20 09:07:19+00,f,f,"",m.ellandzengue,1,f,,t
+124,,6,Mireille MOUBALIKIKA NYANGALA,,066890089,M.MOUBALIKIKANYANGALA@moov-africa.ga, ,,,1,,,2022-12-20 09:07:45+00,f,f,"",m.nyangala,1,f,,t
+126,,6,NGOMBI CHEVALIER Jean-Pierre,,065300285,J.NGOMBI@moov-africa.ga, ,,,1,,,2022-12-20 09:09:18+00,f,f,"",jpngombi,1,f,,t
+127,,6,Odette DZANI BOGUIKOUMA ep MAFOUE,,(+241) 011 56 45 57,O.DZANIBOGUIKOUMAepMAFOUE@moov-africa.ga, ,,,1,,,2022-12-20 09:09:38+00,f,f,"",o.dzaniboguikouma,1,f,,t
+125,24,6,MOUSSAVOU Ghislain Roger,,065300135,R.MOUSSAVOU@moov-africa.ga,"",,1,1,2022-12-20 10:57:18+00,,2022-12-20 09:08:04+00,f,f,"",grmoussavou,1,f,24,t
+128,18,4,Steeve ONDO-ext,,"",S.ONDO-ext@moov-africa.ga, ,,,1,,,2023-01-02 10:15:25+00,f,f,"",s.ondo-ext,1,t,18,t
+130,,1,NGUIA Parfait,,065.300.273,P.NGUIA@moov-africa.ga, ,,,52,,,2023-03-06 11:19:39+00,f,f,"",pnguia,1,f,,t
+132,10,4,Serge MENIER-ext,,062085369,S.MENIER@moov-africa.ga,"",,52,52,2023-03-15 08:49:02+00,,2023-03-15 08:43:54+00,f,f,"",s.menier-ext,1,t,10,t
+137,77,5,Etienne IBOUANGA KOUMBA,,066268047,E.IBOUANGAKOUMBA@moov-africa.ga,"",,52,52,2023-04-19 14:49:51+01,,2023-04-19 14:33:44+01,f,f,"",e.ibouanga,1,t,77,t
+139,62,4,MICKALA IBOUANGA,Alain,06530091,a.mickala@gabontelecom.ga,"",,,,,,,f,f,$2y$10$/Tx42930Q4Pu6LZslHh6ke8iKRr1K1OdRRO/rGDBfNlxOsTdhp4BC,mickala,,t,62,t
+134,10,3,NDONG OLE,Tresor,000000,T.ndong-ext@gabontelecom.ga,"",,52,,2023-05-02 08:12:22+01,,,f,f,$2y$10$sM1/d1iUhkstIVmlBFYcAerdPUkOnDWM.kDBdXVNhUgKfy5FSFO6G,Tresor,,f,10,t
+116,10,5,Guy Martial KAGHA,,066127800,G.KAGHA@moov-africa.ga,"",,1,1,2023-08-04 08:38:59+01,,2022-11-10 15:33:13+00,f,f,"",gm.kagha,1,t,10,t
+15,8,5,Fadila  TARNAGDA-ext,,066385232,F.TARNAGDA-ext@moov-africa.ga,"",,1,1,2023-09-12 16:00:18+01,,2021-04-01 14:06:14+01,f,f,"",f.TARNAGDA-ext,1,t,8,t
+21,8,5,SAWADOGO Alimata,,066060202,a.sawadogo-ext@moov-africa.ga,"",,1,1,2023-09-12 16:00:32+01,,2021-05-04 08:31:22+01,f,f,"",a.sawadogo-ext,1,t,8,t
+140,20,1,Elvis Eudes EKAGHBA,,065300355,E.EKAGHBA@moov-africa.ga,"",,1,1,2024-04-30 12:30:41+01,,2023-05-25 10:28:19+01,f,f,"",e.ekaghba,1,f,20,t
+34,12,5,Klebert Général NGUEMA,,066237351,K.NGUEMA@moov-africa.ga,"",,1,1,2024-06-03 15:18:37+01,,2021-06-01 10:07:12+01,f,f,"",kg.nguema,1,t,12,t
+59,14,5,BIGNOUMBA Achille Kevin,,065300091,A.BIGNOUMBA@moov-africa.ga,"",,1,1,2023-08-04 08:42:03+01,,2022-05-04 09:21:20+01,f,f,"",akbignoumba,1,t,14,t
+141,83,5,YOUBI Fiacre Emerçon,,065.300.366,F.YOUBI@moov-africa.ga, ,,,1,,,2023-08-04 11:54:41+01,f,f,"",fyoubi,1,t,83,t
+142,81,5,Constant MYPOTO,,011677541,C.MYPOTO@moov-africa.ga, ,,,1,,,2023-08-04 11:55:16+01,f,f,"",c.mypoto,1,t,81,t
+143,79,5,Sosthene NDZALOUYA,,011903069,S.NDZALOUYA@moov-africa.ga, ,,,1,,,2023-08-04 11:56:26+01,f,f,"",s.ndzalouya,1,t,79,t
+144,85,5,NTOUTOUME Brice-Arnaud,,065.300.247,B.NTOUTOUME@moov-africa.ga, ,,,1,,,2023-08-04 11:59:44+01,f,f,"",bantoutoume,1,t,85,t
+145,87,5,EBANG ASSOUMOU Pistil Aaron,,065.300.264,P.EBANG@moov-africa.ga, ,,,1,,,2023-08-04 12:01:44+01,f,f,"",pebang,1,t,87,t
+146,69,5,Marcel TSIEKALA OKOUNA,,066040223,M.TSIEKALAOKOUNA@moov-africa.ga,"",,1,1,2023-08-09 12:57:25+01,,2023-08-09 12:57:10+01,f,f,"",m.tsiekala,1,t,69,t
+129,89,3,Armand Francis MOUKELA,,011741933,A.MOUKELA@moov-africa.ga,"",,1,1,2023-09-05 11:48:50+01,,2023-01-04 11:29:04+00,f,f,"",af.moukela,1,f,89,t
+147,8,5,Michele ADA AKOUE,,011764812,M.ADAAKOUE@moov-africa.ga, ,,,1,,,2023-09-12 16:22:40+01,f,f,"",m.ada,1,t,8,t
+22,,1,AMEGAN,Amand,074830478,a.amegan@sahelys.com,"",,1,,2023-10-17 09:46:51+01,,,f,f,$2y$10$GFIplJt.YZoE52qtXIC5C.y8yF84ZjA9EIDyE.O/SCEWc8pL8Nd46,admin,,f,,f
+149,79,4,Brice DISSELE,,"",B.DISSELE@moov-africa.ga, ,,,1,,,2023-12-01 10:17:34+00,f,f,"",b.dissele,1,t,79,t
+150,22,5,Boret OMPOSSO,,065879303,B.OMPOSSO-ext@moov-africa.ga, ,,,1,,,2023-12-01 11:28:31+00,f,f,"",b.omposso-ext,1,t,22,t
+151,12,5,Grace Vanney OYE,,"",G.OYE-ext@moov-africa.ga, ,,,1,,,2023-12-01 11:29:17+00,f,f,"",g.oye-ext,1,t,12,t
+152,12,4,Grace OBONE EKWA,,"",G.OBONEEKWA-ext@moov-africa.ga, ,,,1,,,2024-01-09 08:04:57+00,f,f,"",g.obone-ext,1,t,12,t
+153,12,5,Sandulli OYE  EBO NDO,,065398389,S.OYE-ext@moov-africa.ga, ,,,1,,,2024-02-20 10:27:21+00,f,f,"",s.oye-ext,1,t,12,t
+154,24,4,Larnelle Djayck MBINA MBINA,,"",L.MBINA-ext@moov-africa.ga, ,,,1,,,2024-03-08 10:55:17+00,f,f,"",l.mbina-ext,1,t,24,t
+155,,1,CHAFAI,Mohamed ,066707171,m.chafai@gabontelecom.ga,"",,,,,,,f,f,$2y$10$WfA3qRrdsTAfEHA9Cgfm5erRrVDKVA6LSfCdUgCQuq8.Mf4XulDNq,m.chafai,,f,,t
+157,77,3,MAYIKA MOUSSOKA ,Marie Ursule,066216221,m.MAYIKA@gabontelecom.ga,"",,52,,2024-04-09 14:30:55+01,,,f,f,$2y$10$2QPXwMf9PCvJnfG6JaKgYu7FCNg7Jr808Zjj87wLi0WAcTQ6iLFea,m.MAYIKA,,t,77,f
+159,18,5,MAYIKA MOUSSOKA ,Ursule Marie,66 70 06 43,m.mayika@moov-afrika.ga,"",,,,,,,f,f,$2y$10$nngsWX1TqLqTHyxrtjQSjeJwD7YNTPOhET6pYz/2x.5EMr9NsEHXu,m.mayika,,t,18,t
+160,20,1,Bernard MBANGANGOYE,,66 22 60 37,B.MBANGANGOYE@moov-africa.ga,"",,1,1,2024-06-12 12:01:35+01,,2024-06-12 11:38:36+01,f,f,"",b.mbangangoye,1,f,20,t
+2,1,1,Admin,Admin,074848415,admin@sahelys.com,"",,2,,2020-12-17 09:21:00+00,,,f,f,$2y$10$fO90B0xM/O2bvtuU.j9pGOr/JiBbd1Mm2QTldr3KU/rS3nZbFOSYG,ADMIN,,,1,t
+1,,1,Junior Acke MISSAMOU,,066642899,J.MISSAMOU@gabontelecom.ga, ,,,1,,,2020-12-08 16:27:24+00,f,f,"",j.missamou,1,f,,t
+3,1,2,PELBA,Jérémie,074848415,j.ngourmissala@sahelys.com,Masculin,,,,,,,f,f,$2y$10$fO90B0xM/O2bvtuU.j9pGOr/JiBbd1Mm2QTldr3KU/rS3nZbFOSYG,pel,,f,,t
+36,10,5,Gilbert LIMESSE NDANGHANG,,011 76 61 33,G.LIMESSENDANGHANG@moov-africa.ga, ,,,1,,,2021-06-01 10:08:26+01,f,f,"",g.limesse,1,t,10,t
+9,,3,Jean Aime MENIE,,066033592,J.MENIE@gabontelecom.ga, ,,,2,,,2020-12-18 14:59:57+00,f,f,"",ja.menie,1,f,,t
+14,,3,Sylvestre LOMBA,,"",S.LOMBA@moov-africa.ga, ,,,1,,,2021-04-01 14:04:22+01,f,f,"",s.lomba,1,f,,t
+17,,3,Tarnagda,Fadila,+24166642899,missamouacke@gmail.com,"",,,,,,,f,f,$2y$10$eucAkvtJJGJf4.61bP9yJ.o5yvRBOTk8Zc.mAd5ByMRAfCKf337rq,Fadila,,f,,t
+23,58,3,ZOUMANA,Armand,07354871,a.zoumana@sahelys.com,"",,,,,,,f,f,$2y$10$36aDr.ZH0iSM2IyOgrTjpuj2gBbdjaHSBJK.0mECDNvPSFlIM5mr.,armand,,t,58,t
+25,,2,paterne IBILY LOBA,,066264147 / 011741000,P.IBILYLOBA@moov-africa.ga, ,,,1,,,2021-05-28 09:49:22+01,f,f,"",p.ibily,1,f,,t
+26,8,4,Jacqueline MBOUMI,,011766133,J.MBOUMI@moov-africa.ga, ,,,1,,,2021-05-28 09:51:05+01,f,f,"",j.mboumi,1,t,8,t
+27,24,4,Joyce Guinagou-ext,,066 75 98 01,J.Guinagou-ext@moov-africa.ga, ,,,1,,,2021-05-28 09:54:52+01,f,f,"",j.guinagou-ext,1,t,24,t
+28,16,4,Jean EDHOU-ext,,"",J.EDHOU-ext@moov-africa.ga, ,,,1,,,2021-05-28 10:00:06+01,f,f,"",j.edhou-ext,1,t,16,t
+29,18,4,Loïc MBEGA NDONG-ext,,"",L.MBEGANDONG-ext@moov-africa.ga, ,,,1,,,2021-05-28 10:01:26+01,f,f,"",l.mbega-ext,1,t,18,t
+30,12,4,Noël MASSIMBOU,,066 05 48 30,N.MASSIMBOU@moov-africa.ga, ,,,1,,,2021-05-28 10:02:32+01,f,f,"",n.massimbou,1,t,12,t
+31,12,4,Nicole MENGUE MBA,,011729181,N.MENGUEMBA@moov-africa.ga, ,,,1,,,2021-06-01 09:44:24+01,f,f,"",n.mengue,1,t,12,t
+16,18,4,Yolande Abeng-ext,,+24166642899,Y.Abeng-ext@moov-africa.ga,"",,1,1,2021-06-01 09:50:40+01,,2021-04-02 08:27:55+01,f,f,"",y.abeng-ext,1,,18,t
+41,8,4,hans Fenett okoudji-ext,,"",h.okoudji-ext@moov-africa.ga, ,,,1,,,2021-06-07 12:57:13+01,f,f,"",h.okoudji-ext,1,t,8,t
+40,8,4,Hans MONGOCKODJI-ext,,"",H.MONGOCKODJI-ext@moov-africa.ga, ,,1,1,2021-06-07 13:05:35+01,,2021-06-07 10:42:37+01,f,f,"",h.mongockodji-ext,1,t,8,f
+133,10,4,Abel MOULOUNGUI-ext,,06058375,A.MOULOUNGUI@moov-africa.ga,"",,52,52,2023-03-15 08:49:39+00,,2023-03-15 08:48:04+00,f,f,"",a.mouloungui-ext,1,t,10,t
+131,20,3,Terry EDOU EDOU,,066945012,T.EDOUEDOU@moov-africa.ga,"",,1,52,2023-03-24 11:00:26+00,,2023-03-14 10:58:28+00,f,f,"",t.edou-ext,1,f,20,t
+138,77,4,MOUNDOUNGA MOUDOUNGA,Charly,065300186,c.moundounga@gmail.com,"",,52,,2023-05-02 08:15:51+01,,,f,f,$2y$10$c9ixE7SA1hGI.jyvuiAPBuW38/wzXJKFqaO4G8xBzzbSkyrpXMyym,Moundounga,,t,77,t
+135,10,3,Tresor NDONG OLE-ext,,062823214,T.NDONGOLE@moov-africa.ga,"",,52,52,2023-04-05 12:06:44+01,,2023-04-05 12:06:09+01,f,f,"",t.ndong-ext,1,f,10,t
+136,73,4,Paul NDINGA-ext,,060213000,P.NDINGA@moov-africa.ga,"",,52,52,2023-04-19 14:48:49+01,,2023-04-07 15:15:03+01,f,f,"",p.ndinga-ext,1,t,73,t
+148,,3,Brice Darius MBELE,,011740320,B.MBELE@moov-africa.ga, ,,,1,,,2023-10-16 10:11:52+01,f,f,"",b.mbele,1,f,,t
+156,16,1,Hamid,BENSAID,066700643,h.bensaid@gabontelecom.ga,"",,52,,2024-04-04 16:13:07+01,,,f,f,$2y$10$vhqZdJy0oGaiQGdGyUYiBeK6jz3dKPk8G.mB4ya10B/6k0yYT2GeC,h.bensaid,,f,16,f
+158,16,3,OBIANG ONDO, Paterne ,066000000,p.obiang@gmail.com,"",,,,,,,f,f,$2y$10$UXG8AMn4Zhq38pXlU4ntuOR2mvArB63noUVVjTDEIeBetb/iGPdwK,p.obiang,,t,16,t
